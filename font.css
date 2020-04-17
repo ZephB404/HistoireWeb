@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "modern_font";
+	src: url("font/modern.woff") format("woff");
+}
+
+@font-face {
+	font-family: "bienvenue_font";
+	src: url("font/bienvenue.woff") format("woff");
+}
