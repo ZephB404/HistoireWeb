@@ -152,7 +152,6 @@ section {
 	width: 80%;
 }
 #gallerie {
-	border: 2px black solid;
 	grid-area: gallerie;
 	display: flex;
 	justify-content: space-around;
